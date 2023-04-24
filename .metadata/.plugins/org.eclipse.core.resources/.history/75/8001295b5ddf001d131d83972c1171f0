@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Registration page</title>
+</head>
+<body >
+<h1 style='color:red; text-align:center'>Registration pagee</h1>
+<form action="/reg" method="post">
+	<input type="text" name="name">
+	<input type="text" name="number">
+	<input type="email" name="email">
+	<input type="text" name="city">
+	<input type="submit">
+</form>
+</body>
+</html>
